@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=dracula&langs_count=5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=dark&show_icons=true)
 
-![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=dark&show_icons=true)]
+![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=dark&show_icons=true)
   
 <div>  
