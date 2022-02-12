@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<div align=center><h2>👾 WHAT I USED THE MOST</h2></div>
+<div align=center><h2>👾 USED THE MOST</h2></div>
 <div align=center>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
