@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h2>📱 CONTACT ME</h2></div>
+<div align=center><h2>💌 CONTACT ME</h2></div>
 
 <div align=center> 
   <a href="https://code-no-515.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
