@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<div align=center><h2>GitHub stats</h2></div>
+<div align=center><h2>GITHUB STATS</h2></div>
 <div align=center>
 
 ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=dark&show_icons=true)
