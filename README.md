@@ -49,8 +49,10 @@ Here are some ideas to get you started:
 <div align=center><h2>👾</h2></div>
 <div align=center>
 
-![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=cobalt)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
+  <br>
+ ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=cobalt)
+
+
   
 <div>  
