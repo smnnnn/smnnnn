@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center> 
   🌱🌱🌱
