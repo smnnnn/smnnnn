@@ -50,9 +50,10 @@ Here are some ideas to get you started:
 <div align=center>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
-  
 <div>  
+  
 <br>
+  
 <div align=center><h2>💻 MY GITHUB STATS</h2></div>  
 <div align=center>
   
