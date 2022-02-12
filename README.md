@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center> 
   
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
