@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 <br>
 
 
-<div align=center><h2>👾WHAT I MOST USED</h2></div>
+<div align=center><h2>👾 WHAT I MOST USED</h2></div>
 <div align=center>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
   
 <div>  
-<div align=center><h2>👾GITHUB STATS</h2></div>  
+<div align=center><h2>💻 GITHUB STATS</h2></div>  
 <div align=center>
   
  ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=cobalt)
