@@ -46,9 +46,8 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=dark&show_icons=true)
 
 ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=dark&show_icons=true)
   
 <div>  
