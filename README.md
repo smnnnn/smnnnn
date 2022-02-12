@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
+
 <div align=center><h2>💌 CONTACT ME</h2></div>
 
 <div align=center> 
