@@ -42,9 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <br>
 </div>
-<div align=center>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
-<div>  
+
   <div align=center>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
