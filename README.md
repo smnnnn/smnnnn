@@ -45,11 +45,8 @@ Here are some ideas to get you started:
 
   <div align=center>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=cobalt)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&layout=compact&theme=nightowl)
 <div>  
-
-
-<br>
 
 <div align=center>
   
