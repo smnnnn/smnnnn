@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/oracle-331B3F?style=flat-square&logo=oracle&logoColor=ACC7B4"> 
-  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"> 
+  <img src="https://img.shields.io/badge/thymeleaf-331B3F?style=flat-square&logo=thymeleaf&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
