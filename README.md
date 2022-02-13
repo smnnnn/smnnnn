@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div align=center><h2>💁 CONTACT ME</h2></div>
 <div align=center> 
   <a href="https://code-no-515.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:hummingbirdzzzzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hummingbirdzzzzz@gmail.com-8412B9?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:hummingbirdzzzzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hummingbirdzzzzz@gmail.com-331B3F?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 <br>
