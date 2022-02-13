@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <br>
  </div> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
 
 <br>
   
