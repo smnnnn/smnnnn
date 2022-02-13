@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h2>📚 STACKS</h2></div>
+<div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
   🌱🌱🌱
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align=center><h2>💁 CONTACT ME</h2></div>
+<div align=center><h3>💁 CONTACT ME</h3></div>
 <div align=center> 
   <a href="https://code-no-515.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:hummingbirdzzzzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hummingbirdzzzzz@gmail.com-331B3F?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br>
   
-<div align=center><h2>💻 GITHUB STATS</h2></div>  
+<div align=center><h3>💻 GITHUB STATS</h3></div>  
 <div align=center>
   
  ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=nightowl)
