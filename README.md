@@ -50,8 +50,7 @@ Here are some ideas to get you started:
 
 
 <br>
-  
-<div align=center><h3>💻 GITHUB STATS</h3></div>  
+
 <div align=center>
   
  ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=nightowl)
