@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align=center><h3>📚 STACKS</h3></div>
+
 
 <div align=center> 
   🌱🌱🌱
