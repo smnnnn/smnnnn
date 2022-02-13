@@ -36,11 +36,13 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnn&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
+
 <div align=center><h3>💻 GITHUB STATS</h3></div>  
 <div align=center>
   
  ![smnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=nightowl)
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
 </div>
 
 
