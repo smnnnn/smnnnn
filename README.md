@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=nightowl&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=nightowl"/> 
 
 
