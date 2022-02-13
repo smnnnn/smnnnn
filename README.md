@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center>
-  <div align=left>
+
   🌱🌱🌱
   <br>
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"> 
@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   <br>
  </div> 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
-<div>
-
 
 <br>
   
