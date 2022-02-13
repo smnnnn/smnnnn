@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/springBoot-331B3F?style=flat-square&logo=springBoot&logoColor=ACC7B4"> 
   <br>
   
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/oracle-331B3F?style=flat-square&logo=oracle&logoColor=ACC7B4"> 
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"> 
   <br>
   
