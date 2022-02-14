@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnnnn&theme=nightowl&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=smnnnn&count_private=true&theme=nightowl"/> 
 
-
+<br>
 <div align=center><h3>💁 CONTACT ME</h3></div>
 <div align=center> 
   <a href="https://code-no-515.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-7952B3?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
