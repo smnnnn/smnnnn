@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align=left>
   <div align=center>
-    🌱🌱🌱
+    
     <br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"> 
     <br>
