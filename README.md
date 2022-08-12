@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align=center> 
   <a href="https://code-no-515.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-7952B3?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <br>
-  <a href="mailto:lisa.som@kakaocorp.com" target="_blank"><img src="https://img.shields.io/badge/lisa.som@kakaocorp.com-F7DF1E?style=flat-square&logo=GitHub%20Sponsors&logoColor=black"/></a>
+
 </div>
 
 <br><br>
